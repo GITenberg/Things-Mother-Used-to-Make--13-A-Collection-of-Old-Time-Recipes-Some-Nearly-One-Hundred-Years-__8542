@@ -1,0 +1,24 @@
+_repo: Things-Mother-Used-to-Make--13-A-Collection-of-Old-Time-Recipes-Some-Nearly-One-Hundred-Years-__8542
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gurney, Lydia Maria
+    gutenberg_agent_id: '2791'
+    url: http://www.gutenberg.org/2009/agents/2791
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- GITenberg
+title: "Things Mother Used to Make\r\nA Collection of Old Time Recipes, Some Nearly\
+  \ One Hundred Years Old and Never Published Before"
+url: http://www.gutenberg.org/ebooks/8542
